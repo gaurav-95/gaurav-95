@@ -15,7 +15,7 @@ You can find me on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2.2]: https://github.com/gaurav-95/gaurav-95/blob/main/174857.png
 
 <!-- Links to your social media accounts -->
 
