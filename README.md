@@ -3,8 +3,8 @@
 Here I put my contributions to the python code space to create something unique out of ideas 
 and the mysterious patterns that god has left for us to explore ... 🕵️‍♂️
 
-🧘‍♂️ Coding and meditation go hand in hand. It requires full attention and awareness of all things flowing from the head to the hands.
-We haven't yet, seen below the tip of the 🧊-berg. A lot of meditating and coding to be done! 👨‍💻
+🧘‍♂️ To me, coding and meditation go hand in hand. It requires full attention and awareness of all things flowing from the head to the hands.
+We haven't yet, seen below the tip of the 🧊-berg of what the world has to offer us. A lot of meditating and coding to be done! 👨‍💻
 
 <!--
 **gaurav-95/gaurav-95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
