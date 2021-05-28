@@ -13,7 +13,7 @@ We haven't yet, seen below the tip of the 🧊-berg of what the world has to off
 
 You can find me on  
   
-[![LinkedIn][2.2]][2].
+[![LinkedIn][2.2]][2]
 
 <!-- Icons -->
 
