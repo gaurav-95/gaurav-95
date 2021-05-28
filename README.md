@@ -8,6 +8,19 @@ We haven't yet, seen below the tip of the 🧊-berg of what the world has to off
 
 [](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
+
+<!-- Actual text -->
+
+You can find me on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[2]: https://www.linkedin.com/in/gauravhazra1995/
+
 <!--
 **gaurav-95/gaurav-95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
