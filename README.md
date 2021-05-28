@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello and welcome to my humble repository 🙋‍♂️
+
+Here I put my contributions to the python code space to create something unique out of ideas 
+and the mysterious patterns that god had left for us to explore ... 🕵️‍♂️
+
+🧘‍♂️ Coding and meditation go hand in hand. It requires full attention and awareness of all things flowing from the head to the hands.
 
 <!--
 **gaurav-95/gaurav-95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
