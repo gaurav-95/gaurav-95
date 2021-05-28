@@ -11,7 +11,7 @@ We haven't yet, seen below the tip of the 🧊-berg of what the world has to off
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][3.2]][3].
+You can find me on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
