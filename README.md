@@ -11,11 +11,11 @@ We haven't yet, seen below the tip of the 🧊-berg of what the world has to off
 
 <!-- Actual text -->
 
-You can find me on <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div> [![LinkedIn][2.2]][2].
+You can find me on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
-[2.2]: https://github.com/gaurav-95/gaurav-95/blob/main/linkedin_logo.png
+[2.2]: https://github.com/gaurav-95/gaurav-95/blob/main/linkedin.png
 
 <!-- Links to your social media accounts -->
 
