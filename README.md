@@ -15,7 +15,7 @@ You can find me on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
-[2.2]: https://github.com/gaurav-95/gaurav-95/blob/main/174857.png
+[2.2]: https://github.com/gaurav-95/gaurav-95/blob/main/linkedin_logo.png
 
 <!-- Links to your social media accounts -->
 
