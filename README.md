@@ -6,8 +6,8 @@ and the mysterious patterns that god has left for us to explore ... 🕵️‍�
 🧘‍♂️ To me, coding and meditation go hand in hand. It requires full attention and awareness of all things flowing from the head to the hands.
 We haven't yet, seen below the tip of the 🧊-berg of what the world has to offer us. A lot of meditating and coding to be done! 👨‍💻
 
-[](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 <!-- Actual text -->
 
