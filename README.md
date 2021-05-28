@@ -14,6 +14,8 @@ You can find me on
   
 [![LinkedIn][2.2]][2]
 
+Random fun fact: Did you know BOSE makes suspensions?  🚗  https://www.youtube.com/watch?v=kJ0ljaqeZ1g
+
 <!-- Icons -->
 
 [2.2]: https://github.com/gaurav-95/gaurav-95/blob/main/linkedin.png
