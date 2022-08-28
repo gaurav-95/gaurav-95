@@ -1,5 +1,7 @@
 ### Hello and welcome to my humble repository 🙋‍♂️
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Asadullah-Dal17&label=Profile%20views&color=0e75b6&style=flat" alt="Gaurav Hazra" /> </p>
+
 Here I put my contributions to the python code space to create something unique out of ideas 
 and the mysterious patterns that god has left for us to explore ... 🕵️‍♂️
 
