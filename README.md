@@ -1,4 +1,4 @@
-# Applied Data Scientist In The Making :man_technologist:
+# :man_technologist: Applied Data Scientist In The Making 
 
 ![](https://komarev.com/ghpvc/?username=gaurav-95&style=for-the-badge)
 
@@ -12,7 +12,7 @@ We haven't yet, seen below the tip of the 🧊-berg of what this world has to of
 
 <!-- Actual text -->
 
-## You can find me on :link:
+## :link: You can find me on 
 
 <!-- Links to your social media accounts -->
 
@@ -33,7 +33,7 @@ We haven't yet, seen below the tip of the 🧊-berg of what this world has to of
 -->
 
 
-## Github Stats :chart_with_upwards_trend:
+## :chart_with_upwards_trend: Github Stats 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaurav-95&theme=solarized" />
 
