@@ -8,7 +8,8 @@ and mysterious patterns that the universe has left for us to explore ... 🕵️
 - 🧘‍♂️ To me, coding and meditation go hand in hand. It requires full attention and awareness of all things. A steady flow from the head to the hands.
 We haven't yet, seen below the tip of the 🧊-berg of what this world has to offer to us!
 
-- For more details about the projects I have worked on for my company, please refer to my resume available on LinkedIn.
+- Check out this app where I've developed all A.I. Features in it: https://play.google.com/store/apps/details?id=com.mynd.neus<br />
+For more details about the projects I have worked on for my company, please refer to my resume available on LinkedIn.
 
 <!-- Actual text -->
 
