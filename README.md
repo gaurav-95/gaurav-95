@@ -1,6 +1,6 @@
 ### Hello and welcome to my humble repository 🙋‍♂️
 
-![](https://komarev.com/ghpvc/?gaurav-95)
+![](https://komarev.com/ghpvc/?username=gaurav-95)
 
 Here I put my contributions to the python code space to create something unique out of ideas 
 and the mysterious patterns that god has left for us to explore ... 🕵️‍♂️
