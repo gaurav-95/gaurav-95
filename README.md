@@ -1,13 +1,14 @@
-# Hello and welcome to my humble repository 🙋‍♂️
+# Applied Data Scientist In The Making :man_technologist:
 
 ![](https://komarev.com/ghpvc/?username=gaurav-95&style=for-the-badge)
 
-Here I put my contributions to the python code space to create something unique out of ideas 
-and the mysterious patterns that god has left for us to explore ... 🕵️‍♂️
+- Here I put my contributions to the python code space to create something unique out of ideas 
+and mysterious patterns that the universe has left for us to explore ... 🕵️‍♂️
 
-🧘‍♂️ To me, coding and meditation go hand in hand. It requires full attention and awareness of all things flowing from the head to the hands.
-We haven't yet, seen below the tip of the 🧊-berg of what the world has to offer us. A lot of meditating and coding to be done! 👨‍💻
+- 🧘‍♂️ To me, coding and meditation go hand in hand. It requires full attention and awareness of all things. A steady flow from the head to the hands.
+We haven't yet, seen below the tip of the 🧊-berg of what this world has to offer to us!
 
+- For more details about the projects I have worked on for my company, please refer to my resume available on LinkedIn.
 
 <!-- Actual text -->
 
