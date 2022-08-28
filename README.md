@@ -39,7 +39,7 @@ We haven't yet, seen below the tip of the 🧊-berg of what this world has to of
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-95&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" > My Working Tools and Libraries
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" > Work Tools and Libraries
 <!-- Working Tools and Libraries-->
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
