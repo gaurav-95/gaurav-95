@@ -40,6 +40,8 @@ For more details about the projects I have worked on for my company, please refe
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-95&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
+NOTE: Most Used languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" > Work Tools and Libraries
 <!-- Working Tools and Libraries-->
 
