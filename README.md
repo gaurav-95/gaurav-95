@@ -1,4 +1,4 @@
-# :man_technologist: Applied Data Scientist In The Making 
+# :man_technologist: My Goals and Achievements
 
 ![](https://komarev.com/ghpvc/?username=gaurav-95&style=for-the-badge)
 
