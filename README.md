@@ -4,7 +4,7 @@
 
 - I find a deep connection between coding and meditation. Both require full attention and awareness, allowing ideas to flow from the mind to the body. There is so much more to discover in the world of coding, like hidden patterns and fascinating concepts.
 
-- I have developed an app that includes advanced AI features. You can find it on the Google Play Store: https://play.google.com/store/apps/details?id=com.mynd.neus<br />
+- I have helped develop an app that includes advanced AI features. You can find it on the Google Play Store: https://play.google.com/store/apps/details?id=com.mynd.neus<br />
 
 - If you'd like to learn about the projects I have worked on for my company, you can find more details in my professional resume on LinkedIn.
 
