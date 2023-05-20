@@ -2,14 +2,13 @@
 
 ![](https://komarev.com/ghpvc/?username=gaurav-95&style=for-the-badge)
 
-- Here I put my contributions to the python code space to create something unique out of ideas 
-and mysterious patterns that the universe has left for us to explore ... 🕵️‍♂️
+- I find a deep connection between coding and meditation. Both require full attention and awareness, allowing ideas to flow from the mind to the hands. There is so much more to discover in the world of coding, like hidden patterns and fascinating concepts.
 
-- 🧘‍♂️ To me, coding and meditation go hand in hand. It requires full attention and awareness of all things. A steady flow from the head to the hands.
-We haven't yet, seen below the tip of the 🧊-berg of what this world has to offer to us!
+- I have developed an app that includes advanced AI features. You can find it on the Google Play Store: https://play.google.com/store/apps/details?id=com.mynd.neus<br />
 
-- Check out this app where I've developed all A.I. Features in it: https://play.google.com/store/apps/details?id=com.mynd.neus<br />
-For more details about the projects I have worked on for my company, please refer to my resume available on LinkedIn.
+- If you'd like to learn about the projects I have worked on for my company, you can find more details in my professional resume on LinkedIn.
+
+- Through these experiences, I continue to explore the endless possibilities and mysteries that the coding world has to offer.
 
 <!-- Actual text -->
 
