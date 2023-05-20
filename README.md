@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=gaurav-95&style=for-the-badge)
 
-- I find a deep connection between coding and meditation. Both require full attention and awareness, allowing ideas to flow from the mind to the hands. There is so much more to discover in the world of coding, like hidden patterns and fascinating concepts.
+- I find a deep connection between coding and meditation. Both require full attention and awareness, allowing ideas to flow from the mind to the body. There is so much more to discover in the world of coding, like hidden patterns and fascinating concepts.
 
 - I have developed an app that includes advanced AI features. You can find it on the Google Play Store: https://play.google.com/store/apps/details?id=com.mynd.neus<br />
 
