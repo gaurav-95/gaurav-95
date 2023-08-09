@@ -8,7 +8,7 @@
 
 - If you'd like to learn about the projects I have worked on for my company, you can find more details in my professional resume on LinkedIn.
 
-- Through these experiences, I continue to explore the endless possibilities and mysteries that the coding world has to offer.
+- Through these experiences, I continue to explore the endless possibilities and mysteries that the world has to offer.
 
 <!-- Actual text -->
 
