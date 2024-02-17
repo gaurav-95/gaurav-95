@@ -10,6 +10,8 @@
 
 - Through these experiences, I continue to explore the endless possibilities and mysteries that the world has to offer.
 
+NOTE: Most Used languages do not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others that I haven't put up on GitHub.
+
 <!-- Actual text -->
 
 ## :link: You can find me on 
@@ -38,8 +40,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaurav-95&theme=solarized" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-95&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
-
-NOTE: Most Used languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" > Work Tools and Libraries
 <!-- Working Tools and Libraries-->
