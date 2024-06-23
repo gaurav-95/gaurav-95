@@ -10,7 +10,6 @@
 
 - Through these experiences, I continue to explore the endless possibilities and mysteries that the world has to offer.
 
-- Talk to my resume here: https://talkingresume1-wwn6x43l.b4a.run/
 
 NOTE: Most Used languages do not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others that I haven't put up on GitHub.
 
